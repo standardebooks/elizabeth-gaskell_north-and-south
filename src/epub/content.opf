@@ -31,12 +31,12 @@
 		<dc:title id="title">North and South</dc:title>
 		<meta property="file-as" refines="#title">North and South</meta>
 		<dc:subject id="subject-1">Didactic fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Bildungsromans</dc:subject>
-		<dc:subject id="subject-4">Mothers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Children of clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-7">England, Northern -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Mothers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-5">Children of clergy--Fiction</dc:subject>
+		<dc:subject id="subject-6">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-7">England, Northern--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037714</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
